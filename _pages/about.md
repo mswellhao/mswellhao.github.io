@@ -19,9 +19,18 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am currently a final-year PhD student in [ILCC](https://web.inf.ed.ac.uk/ilcc) at the University of Edinburgh. My supervisor is [Prof. Mirella Lapata](http://homepages.inf.ed.ac.uk/mlap/). My research interests include semantic parsing, compositional generalization and summarization.
-
 *I'm on the job market now. Free feel to reach out if you’d like to chat!*
+
+
+I am currently a final-year PhD student in [ILCC](https://web.inf.ed.ac.uk/ilcc) at the University of Edinburgh. My supervisor is [Prof. Mirella Lapata](http://homepages.inf.ed.ac.uk/mlap/). 
+
+I am broadly interested in natural language processing and machine learning. My recent research interests focus on the following topics:
+
+- **Semantic Parsing**: bridging the gap between human language and machine language to enable interaction with machines via human language.
+
+- **Compositional Generalization**: endowing neural networks with compositionality for better generalization in downstream NLP tasks such as semantic parsing and machine translation.
+
+<!-- 
 
 During my PhD, I primarily focus on **endowing neural networks with compositionality for better generalization in downstream NLP tasks such as semantic parsing and machine translation.** I believe that the ability to robustly re-compose exsiting knowledge and skills in novel scenario is critical to many high-level cognitive abilities beyond language.
 
@@ -29,7 +38,7 @@ I have attempted to approach this problem from two different perspectives:
 
 - Marrying symbolic structure with neural nerworks ([Semantic Tagging](https://aclanthology.org/2021.findings-emnlp.88.pdf))
 
-- Devising new neural achitecture learning disentangled representations ([Dangle](https://aclanthology.org/2022.acl-long.293.pdf), [R-Dangle](https://arxiv.org/pdf/2212.05982.pdf))
+- Devising new neural achitecture learning disentangled representations ([Dangle](https://aclanthology.org/2022.acl-long.293.pdf), [R-Dangle](https://arxiv.org/pdf/2212.05982.pdf)) -->
 <!-- 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
