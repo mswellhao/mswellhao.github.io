@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-*I'm on the job market now. Free feel to reach out if you’d like to chat!*
+*I'm on the job market now. Feel free to reach out if you’d like to chat!*
 
 
 I am currently a final-year PhD student in [ILCC](https://web.inf.ed.ac.uk/ilcc) at the University of Edinburgh. My supervisor is [Prof. Mirella Lapata](http://homepages.inf.ed.ac.uk/mlap/). 
