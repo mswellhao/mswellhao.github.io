@@ -26,7 +26,7 @@ I am currently a final-year PhD student in [ILCC](https://web.inf.ed.ac.uk/ilcc)
 
 I am broadly interested in natural language processing and machine learning. My recent research interests focus on the following topics:
 
-- **Semantic Parsing**: bridging the gap between human language and machine language to enable interaction with machines via human language.
+- **Semantic Parsing**: bridging the gap between human languages and formal/programming languages to enable interaction with machines via human languages.
 
 - **Compositional Generalization**: endowing neural networks with compositionality for better generalization in downstream NLP tasks such as semantic parsing and machine translation.
 
