@@ -4,7 +4,6 @@ title: about
 permalink: /
 <!-- subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc. -->
 <!-- subtitle: <a href='#'>University of Edinburgh</a> -->
-
 <!-- profile:
   align: right
   image: 3.jpg
